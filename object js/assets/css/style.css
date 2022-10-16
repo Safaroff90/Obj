@@ -1,0 +1,21 @@
+.border-left{
+    border-bottom: 7px solid teal;
+    border-bottom-right-radius: 40px;
+}
+.br{
+    border-radius: 50%;
+}
+.title{
+    font-family: 'Great Vibes', cursive;
+    font-size:5rem;
+    color:teal;
+}
+.color-t{
+    color: teal !important;
+}
+.bg-teal{
+    background-color:teal !important;
+}
+.hidn{
+    overflow: hidden;
+}
